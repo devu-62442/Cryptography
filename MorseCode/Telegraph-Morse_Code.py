@@ -2,6 +2,7 @@ import argparse
 import pyfiglet
 import os
 
+# Dictionary listing letters and symbols corresponding to their Morse Code
 MORSE_CODE_DICT = { 'A':'.-', 'B':'-...', 
                     'C':'-.-.', 'D':'-..', 'E':'.', 
                     'F':'..-.', 'G':'--.', 'H':'....', 
@@ -18,6 +19,7 @@ MORSE_CODE_DICT = { 'A':'.-', 'B':'-...',
                     '?':'..--..', '/':'-..-.', '-':'-....-', 
                     '(':'-.--.', ')':'-.--.-'} 
 
+#Conversion of Plaintext or File to Morse Code
 def plain_morse(plain):
     morse = []
     morse_str=''
@@ -35,10 +37,11 @@ def plain_morse(plain):
     print('\033[93m'+"The Morse Code is -> \n"+'\033[96m'+''.join(morse)+'\033[0m')
     print("\n")
 
-
+#Morse code ASCII Banner
 ascii_banner = pyfiglet.figlet_format("Morse Code")
 print(ascii_banner)
 
+#User Options
 parser = argparse.ArgumentParser()
 parser.add_argument("-e", "--encrypt", dest='plaintext', nargs='+', help="Enter the data to encrypt")
 parser.add_argument("-f", "--file", dest='file', nargs='+', help="Enter the file path")
@@ -49,6 +52,7 @@ args = parser.parse_args()
 plain = []
 morse = []
 temp = []
+
 if args.plaintext:
     arg_str = ' '.join(args.plaintext)
     for c in arg_str:
