@@ -10,3 +10,9 @@ Morse code was also extensively used for early radio communication beginning in 
 
 Ability to use a visual signal also meant that Morse code could be used to indicate distress and the need for assistance, whether from a life-boat at sea or from an isolated land location (signalling a searching rescue aircraft).
 
+The Program is used to convert PLAIN TEXT to MORSE CODE
+
+![alt_text](https://github.com/devu-62442/Cryptography/blob/master/MorseCode/Screenshot%202019-08-30%20at%2010.55.13%20PM.png)
+
+TERMINAL VIEW - 
+
