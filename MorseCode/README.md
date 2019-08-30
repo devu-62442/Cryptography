@@ -8,3 +8,5 @@ The short and long elements can be formed by sounds, marks, or pulses, in on off
 
 Morse code was also extensively used for early radio communication beginning in the 1890s. For the first half of the twentieth century, the majority of high-speed international communication was conducted in Morse code, using telegraph lines, undersea cables, and radio circuits. 
 
+Ability to use a visual signal also meant that Morse code could be used to indicate distress and the need for assistance, whether from a life-boat at sea or from an isolated land location (signalling a searching rescue aircraft).
+
