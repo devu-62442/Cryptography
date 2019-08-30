@@ -26,6 +26,6 @@ TERMINAL VIEW -
 
 - ENCRYPTION OF PLAIN TEXT THROUGH FILES
 
-![alt_text]()
+![alt_text](https://github.com/devu-62442/Cryptography/blob/master/MorseCode/Screenshot%202019-08-30%20at%2011.10.40%20PM.png)
 
 
