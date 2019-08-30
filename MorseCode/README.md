@@ -16,5 +16,16 @@ The Program is used to convert PLAIN TEXT to MORSE CODE
 
 TERMINAL VIEW - 
 
+- HELP
+
 ![alt_text](https://github.com/devu-62442/Cryptography/blob/master/MorseCode/Screenshot%202019-08-30%20at%2011.06.07%20PM.png)
+
+- ENCRYPTION OF PLAIN TEXT
+
+![alt_text](https://github.com/devu-62442/Cryptography/blob/master/MorseCode/Screenshot%202019-08-30%20at%2011.09.29%20PM.png)
+
+- ENCRYPTION OF PLAIN TEXT THROUGH FILES
+
+![alt_text]()
+
 
