@@ -45,7 +45,7 @@ print(ascii_banner)
 parser = argparse.ArgumentParser()
 parser.add_argument("-e", "--encrypt", dest='plaintext', nargs='+', help="Enter the data to encrypt")
 parser.add_argument("-f", "--file", dest='file', nargs='+', help="Enter the file path")
-parser.add_argument("-d", "--decrypt", dest='morsecode',nargs='+', help="Enter the data to decrypt")
+#parser.add_argument("-d", "--decrypt", dest='morsecode',nargs='+', help="Enter the data to decrypt")
 
 args = parser.parse_args()
 
